@@ -14,7 +14,7 @@ var gulp=require('gulp'),
 
 
 gulp.task('default',function(){
-    console.log('elliptical-providers build..."tasks: gulp build|gulp minify"');
+    console.log('elliptical-services build..."tasks: gulp build|gulp minify"');
 });
 
 gulp.task('build',function(){
